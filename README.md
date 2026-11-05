@@ -17,3 +17,9 @@ Para fazer quatro tentativas de ping para `1.1.1.1`, use o argumento `--ping`:
 ```bash
 go run main.go --ping
 ```
+
+Para imprimir uma cor hexadecimal aleatória, use o argumento `--color`:
+
+```bash
+go run main.go --color
+```
